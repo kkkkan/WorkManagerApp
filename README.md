@@ -1,6 +1,6 @@
 # WorkManagerApp
 
-On API 15 devices, when using work manager , notification is deleted automatically.</br>
+On API 15 devices, when using WorkManager , Notification is deleted automatically.</br>
 This app reproduce the bug.
 
 ## Procedure
